@@ -47,8 +47,9 @@
     },
     {
       "name": "hxCodec",
-      "type": "haxelib",
-      "version": "2.5.1"
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/MobilePorting/hxCodec-0.6.3"
     },
     {
       "name": "hscript",
@@ -56,30 +57,30 @@
       "version": null
     },
     {
-      "name": "hxcpp-debug-server",
-      "type": "haxelib",
-      "version": null
+      "name": "hxcpp",
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/mcagabe19-stuff/hxcpp"
     },
     {
-      "name": "discord_rpc",
+      "name": "hxdiscord_rpc",
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/Aidan63/linc_discord-rpc"
-    },
-    {
-      "name": "hscript-ex",
-      "type": "git",
-      "dir": null,
-      "ref": "master",
-      "url": "https://github.com/ianharrigan/hscript-ex"
+      "url": "https://github.com/MobilePorting/hxdiscord_rpc"
     },
     {
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/nebulazorua/linc_luajit"
+      "url": "https://github.com/MobilePorting/linc_luajit-0.6.3"
+    },
+    {
+      "name": "extension-androidtools",
+      "type": "git",
+      "ref": "main",
+      "url": "https://github.com/MAJigsaw77/extension-androidtools"
     }
   ]
 }
